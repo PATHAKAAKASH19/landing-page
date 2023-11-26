@@ -65,7 +65,7 @@
 .text {
     height: 100%;
     width: 50%;
-    padding:5vw 5vw 10vh 10vw;
+    padding:vw 5vw 10vh 10vw;
     font-size: 10px;
  
 }
@@ -193,7 +193,9 @@ i {
     }
 
     .svg-image {
-       align-self:stretch;
+        width: 100%;
+       justify-content: space-between;
+   
     }
 
     .text button {
