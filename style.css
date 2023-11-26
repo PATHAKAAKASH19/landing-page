@@ -65,7 +65,7 @@
 .text {
     height: 100%;
     width: 50%;
-    padding:vw 5vw 10vh 10vw;
+    padding:4vw 5vw 10vh 10vw;
     font-size: 10px;
  
 }
@@ -210,7 +210,7 @@ i {
 
     .text h1 {
       
-        font-size:6vmax;
+        font-size:9.5vmin;
     }
 
     .text p {
