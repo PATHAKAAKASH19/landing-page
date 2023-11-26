@@ -198,6 +198,11 @@ i {
    
     }
 
+    .svg-image img {
+      max-width: 100%;
+      height: auto;
+    }
+
     .text button {
         margin-top: 2% ;
         margin-bottom: 10%;
