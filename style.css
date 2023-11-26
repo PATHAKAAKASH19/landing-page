@@ -193,15 +193,15 @@ i {
     }
 
     .svg-image  {
-        width: 100%;
+        width: 90%;
        justify-content: space-between;
-       align-items: center;
-       border: 2px solid;
+       
+      
      
     }
 
     .svg-image .first, .second, .third, .fourth {
-        max-width: 100%;
+        width: 100%;
         height: auto;
     }
 
