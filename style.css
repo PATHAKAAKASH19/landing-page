@@ -129,7 +129,7 @@ i {
 }
 
 
-@media (max-width:1000px ) {
+@media (max-width:600px ) {
 
     .nav {
         height: 60px;
@@ -194,14 +194,14 @@ i {
 
     .svg-image  {
         width: 90%;
-       justify-content: space-between;
+        justify-content: space-evenly;
        
       
      
     }
 
     .svg-image .first, .second, .third, .fourth {
-        width: 100%;
+        width: 20%;
         height: auto;
     }
 
