@@ -129,7 +129,7 @@ i {
 }
 
 
-@media (max-width:600px ) {
+@media (max-width:1000px ) {
 
     .nav {
         height: 60px;
@@ -192,15 +192,17 @@ i {
         display: initial;
     }
 
-    .svg-image {
+    .svg-image  {
         width: 100%;
        justify-content: space-between;
-   
+       align-items: center;
+       border: 2px solid;
+     
     }
 
-    .svg-image img {
-      max-width: 100%;
-      height: auto;
+    .svg-image .first, .second, .third, .fourth {
+        max-width: 100%;
+        height: auto;
     }
 
     .text button {
